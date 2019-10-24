@@ -35,7 +35,7 @@ The alignments are stored in a 'bam' file - the binary equivalent of the 'sam' f
     25_1_17589_1126_120	163	AdipoR^FBtr0084283	517	1	101M	=	536	120	CTCCGATGAAATTGATTTGGGCGCATTGGCACACAATGCCGCCGAGCAGGCAGAGGAGTTTGTGCGCAAGGTCTAGGAGGCTAGCTGGAAAGTGTGCCACT	CA?@@;@FFHHHIHIJJJIIHHHHJJJJJJJJJJJJJJJJC?6.(<92++9ABCHHIJIGIIJJIJJJJJJIIGGIJJJJJJJJJJJJJIJJIIIIJJJJJ	AS:i:-5	XS:i:-5	XN:i:0	XM:i:1	XO:i:0	XG:i:0	NM:i:1	MD:Z:74G26	YS:i:-5	YT:Z:CP
     25_1_17589_1126_120	339	AdipoR^FBtr0308848	649	1	101M	=	630	-120	GGCGCATTGGCACACAATGCCGCCGAGCAGGCGGAGGAGTTTGTGCGCAAGGTCTGGGAGGCTAGCTGGAAAGTGTGCCACTACAAAAATCTACCCAAGTG	EGJJHHIIHFFFFFHJJJIGIJJJJJJJIGFFFCIHB>@2DDEFFFF@DDBDBCC>@HHHHHHGHFFFFDDDDCDDDDDDFFHG@7FFBCCDDDB<FFD@B	AS:i:-5	XS:i:-5	XN:i:0	XM:i:1	XO:i:0	XG:i:0	NM:i:1	MD:Z:32A68	YS:i:-5	YT:Z:CP
 
-The first field is the read name (ex. 25_1_17589_1126_120) and the second field is the name of the transcript sequence that read aligned to (ex. AdipoR^FBtr0084283).
+The first field is the read name (ex. 25_1_17589_1126_120) and the third field is the name of the transcript sequence that read aligned to (ex. AdipoR^FBtr0084283).
 
 For these data, the transcript identifiers include the gene identifier as a prefix.  So, the transcript AdipoR^FBtr0084283 corresponds to gene AdipoR.
 
